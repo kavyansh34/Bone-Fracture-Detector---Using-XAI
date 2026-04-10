@@ -27,7 +27,7 @@ bone-fracture-detector-xai/
 └── README.md
 ```
 
-> ⚠️ The model weights file `best_fracture_model.pth` (~327 MB) is **not included** in this repository due to size constraints. See [Model Weights](#-model-weights) below for download instructions.
+> ⚠️ The model weights file `best_fracture_model.pth` (~327 MB) is **not included** in this repository due to size constraints. See [Model Weights](#-model-weights) below for download instructions or visit the drive's link (https://drive.google.com/file/d/15C4EIaktuGIjYkF-Z-WDrh5B-kMixgmT/view?usp=drive_link)
 
 ---
 
