@@ -22,7 +22,6 @@ bone-fracture-detector-xai/
 ├── main.py                         ← Training script (DenseNet-121 + GradCAM)
 ├── detector.ipynb                  ← Jupyter notebook for experimentation
 ├── best_fracture_model.pth         ← Trained ViT-B/16 model weights (not in repo — see below)
-├── confusion_matrix_Final_Test_Set.png
 ├── requirements.txt
 └── README.md
 ```
